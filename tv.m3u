@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="cctv",cctv5
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
+
+#EXTINF:-1 group-title="cctv",cctv1
+http://122.236.119.40:5003/live1001.m3u8?token=7375646f27c0b57ff345fcbc98cc3639f34ed449&z=1f4e
+
+#EXTINF:-1 group-title="cctv",ctinews
+https://live.catvod.com/live.php?id=ctinews
+
+#EXTINF:-1 group-title="cctv",ifeng
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8
