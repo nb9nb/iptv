@@ -18,8 +18,8 @@ http://222.241.134.209:8099/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid
 #EXTINF:-1 group-title="央视",CCTV5
 http://zzssw01.55555.io:9901/tsfile/live/0005_1.m3u8
 
-#EXTINF:-1 group-title="卫视",北京卫视
-http://ggzy.7766.org:808/hls/1032/index.m3u8
+#EXTINF:-1 group-title="卫视",global news
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf063257170000724590c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dbc1416e-8c70-4097-a89c-835beacc1b11&serverSideAds=false&checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="港澳台",中天新闻
 http://31.43.191.125:8080/restream/restream/34817
