@@ -7,7 +7,7 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8?ysp
 
 #EXTINF:-1 group-title="cctv",ctinews
-https://live.catvod.com/live.php?id=ctinews
+http://74.91.26.218:82/live/ztxw.m3u8
 
 #EXTINF:-1 group-title="cctv",ifeng
 http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8
