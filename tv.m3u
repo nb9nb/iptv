@@ -7,7 +7,7 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8?ysp
 
 #EXTINF:-1 group-title="cctv",ctinews
-https://ali.hlspull.yximgs.com/live/moa28.flv
+https://live.catvod.com/live.php?id=ctinews
 
 #EXTINF:-1 group-title="cctv",ifeng
 http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -18,14 +18,32 @@ http://222.241.134.209:8099/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid
 #EXTINF:-1 group-title="央视",CCTV5
 http://zzssw01.55555.io:9901/tsfile/live/0005_1.m3u8
 
-#EXTINF:-1 group-title="卫视",global news
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf063257170000724590c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dbc1416e-8c70-4097-a89c-835beacc1b11&serverSideAds=false&checkedby:iptvcat.com
+EXTINF:-1 group-title="douban",ifeng3
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 
-#EXTINF:-1 group-title="港澳台",中天新闻
-http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=16e52c86a9b2c604c0a0f3907c9fc5cc
+EXTINF:-1 group-title="douban",cna
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 group-title="卫视",global news
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf063257170000724590c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dbc1416e-8c70-4097-a89c-835beacc1b11&serverSideAds=false&checkedby:iptvcat.com
+EXTINF:-1 group-title="douban",outdoor
+https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
 
-#EXTINF:-1 group-title="canada",globalnews toronto
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c77ab85b-1b15-4a76-bcb6-d0e12396d41a&checkedby:iptvcat.com
+EXTINF:-1 group-title="douban",outdoor2
+https://30a-tv.com/darcizzle.m3u8
+
+EXTINF:-1 group-title="douban",680citynews
+https://rogers-hls.leanstream.co/rogers/tor680.stream/48k/playlist.m3u8?listeningSessionID=6498480af7975ee3_1342685_UKqb0400_NTEuMTYxLjEwNS4yMDI6ODAwMA!!_0000000bEAN&downloadSessionID=0&environment=web&args=web_01
+
+EXTINF:-1 group-title="douban", ufm1003
+https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC
+
+EXTINF:-1 group-title="douban", nprnews
+http://14023.live.streamtheworld.com/KXJZ.mp3
+
+EXTINF:-1 group-title="douban", bloombergradio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC.aac
+
+EXTINF:-1 group-title="douban",nprnews
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+
+EXTINF:-1 group-title="douban",ufm1003
+http://14023.live.streamtheworld.com/KXJZ.mp3
