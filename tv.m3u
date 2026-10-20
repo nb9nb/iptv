@@ -24,8 +24,8 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 #EXTINF:-1 group-title="cctv",cna
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 group-title="douban",ifeng3
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="cctv",citynews
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
 #EXTINF:-1 group-title="douban",cna
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
