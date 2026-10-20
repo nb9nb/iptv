@@ -6,14 +6,14 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 #EXTINF:-1 group-title="cctv",bjws
 http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8?ysp
 
-#EXTINF:-1 group-title="cctv",ctinews
-http://74.91.26.218:82/live/ztxw.m3u8
+#EXTINF:-1 group-title="cctv",nbc
+https://streamer2.nexgen.bz/NBC/index.m3u8
 
 #EXTINF:-1 group-title="cctv",ifeng
 http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8
 
 #EXTINF:-1 group-title="cctv",foxnews
-http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="cctv",globalnews
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
