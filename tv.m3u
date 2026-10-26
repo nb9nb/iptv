@@ -6,10 +6,13 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 #EXTINF:-1 group-title="cctv",bjws
 http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8?ysp
 
+#EXTINF:-1 group-title="cctv",ifeng
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+
 #EXTINF:-1 group-title="cctv",nbc
 https://streamer2.nexgen.bz/NBC/index.m3u8
 
-#EXTINF:-1 group-title="cctv",ifeng
+#EXTINF:-1 group-title="cctv",ifeng1
 http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8
 
 #EXTINF:-1 group-title="cctv",foxnews
