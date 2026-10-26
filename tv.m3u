@@ -9,6 +9,9 @@ http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8?ysp
 #EXTINF:-1 group-title="cctv",ifeng
 http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 
+#EXTINF:-1 group-title="cctv",ctinews
+https://live.catvod.com/live.php?id=ctinews
+
 #EXTINF:-1 group-title="cctv",nbc
 https://streamer2.nexgen.bz/NBC/index.m3u8
 
